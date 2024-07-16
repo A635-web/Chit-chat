@@ -1,0 +1,19 @@
+{
+  "name": "chit-chat",
+  "version": "1.0.0",
+  "description": "A web server for chatting app",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chit-chat"
+  },
+  "keywords": [
+  
+  ],
+  "author": "Aditya Dixit",
+  "license": "ISC"
+}
